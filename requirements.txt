@@ -1,0 +1,9 @@
+nltk
+scipy
+numpy
+sklearn
+tensorflow==1.6.0
+sklearn
+pandas
+more_itertools
+flask
